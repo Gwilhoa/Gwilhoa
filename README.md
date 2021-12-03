@@ -1,1 +1,1 @@
-[![gchatain's 42 stats](https://badge42.herokuapp.com/api/stats/gchatain)]
+![gchatain's 42 stats](https://badge42.herokuapp.com/api/stats/gchatain)
