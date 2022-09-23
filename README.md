@@ -6,3 +6,7 @@
 		<img align="center" src="https://badge42.vercel.app/api/v2/cl1m9hm0v001609mje7es9b7y/stats?cursusId=21&coalitionId=49" alt="Cursus de gchatain" />
 	</a>
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gwilhoa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Gwilhoa)](https://github.com/anuraghazra/github-readme-stats)
