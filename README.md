@@ -9,5 +9,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gwilhoa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Gwilhoa)](https://github.com/anuraghazra/github-readme-stats)
+[![gchatain's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Gwilhoa)](https://github.com/anuraghazra/github-readme-stats)
 
+[![gchatain's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Gwilhoa&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
