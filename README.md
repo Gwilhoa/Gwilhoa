@@ -13,3 +13,6 @@
 
 [![gchatain's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Gwilhoa&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Gwilhoa&show_icons=true)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Gwilhoa)](https://git.io/streak-stats)
