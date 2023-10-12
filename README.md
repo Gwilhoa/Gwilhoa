@@ -9,10 +9,10 @@
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Gwilhoa&theme=blue-green)
 
-[![gchatain's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Gwilhoa)](https://github.com/anuraghazra/github-readme-stats)
-
 [![gchatain's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Gwilhoa&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Gwilhoa&show_icons=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Gwilhoa)](https://git.io/streak-stats)
+
+[![wakatime](https://wakatime.com/badge/user/9f1bbed5-21f5-43ce-a2a6-03e9b17f7d5f.svg)](https://wakatime.com/@9f1bbed5-21f5-43ce-a2a6-03e9b17f7d5f)
