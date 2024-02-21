@@ -11,8 +11,9 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gwilhoa&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<p align="center">
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Gwilhoa&show_icons=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Gwilhoa)](https://git.io/streak-stats)
-
+</p>
 [![wakatime](https://wakatime.com/badge/user/9f1bbed5-21f5-43ce-a2a6-03e9b17f7d5f.svg)](https://wakatime.com/@9f1bbed5-21f5-43ce-a2a6-03e9b17f7d5f)
