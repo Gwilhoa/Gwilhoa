@@ -1,3 +1,6 @@
+<iframe height='160' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/137835917/activity-summary/c76239370cf9e182c78555637a2ffb9ac09b126b'></iframe>
+
+
 <p align="center">
 	<a href="https://discord.com/users/315431392789921793">
 		<img align="center" alt="Discord status" src="https://lanyard.cnrad.dev/api/315431392789921793?idleMessage=Inactif&hideStatus=false")>
