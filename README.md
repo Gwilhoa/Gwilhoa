@@ -1,4 +1,3 @@
-<iframe height='160' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/137835917/activity-summary/c76239370cf9e182c78555637a2ffb9ac09b126b'></iframe>
 
 
 <p align="center">
