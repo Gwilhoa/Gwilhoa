@@ -5,7 +5,7 @@
 		<img align="center" alt="Discord status" src="https://lanyard.cnrad.dev/api/315431392789921793?idleMessage=Inactif&hideStatus=false")>
 	</a>
 	<a href="https://profile.intra.42.fr/users/gchatain">
-		<img align="center" src="https://badge.mediaplus.ma/colorfulwaves/gchatain?1337Badge=off&42Network=off&UM6P=off" alt="Cursus de gchatain" />
+		<img align="center" src="https://badge.mediaplus.ma/colorfulwaves/ehosta?1337Badge=off&42Network=off&UM6P=off" alt="Cursus de gchatain" />
 	</a>
 </p>
 
