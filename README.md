@@ -11,7 +11,7 @@
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Gwilhoa&theme=blue-green)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gwilhoa&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gchatain&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Gwilhoa&show_icons=true)
