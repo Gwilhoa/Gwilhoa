@@ -11,7 +11,7 @@
 
 <div align="center">
 	<picture align="center">
-		<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=ehosta&show_icons=true&langs_count=15&theme=vue-dark" width="700px">
+		<source srcset="https://github-readme-stats.vercel.app/api/wakatime?username=gwilhoa&show_icons=true&langs_count=15&theme=vue-dark" width="700px">
 	</picture>
 </div>
 
