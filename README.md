@@ -9,7 +9,11 @@
 	</a>
 </p>
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Gwilhoa&theme=blue-green)
+<div align="center">
+	<picture align="center">
+		<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=ehosta&show_icons=true&langs_count=15&theme=vue-dark" width="700px">
+	</picture>
+</div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gwilhoa&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -18,4 +22,3 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Gwilhoa)](https://git.io/streak-stats)
 </p>
-[![wakatime](https://wakatime.com/badge/user/9f1bbed5-21f5-43ce-a2a6-03e9b17f7d5f.svg)](https://wakatime.com/@9f1bbed5-21f5-43ce-a2a6-03e9b17f7d5f)
